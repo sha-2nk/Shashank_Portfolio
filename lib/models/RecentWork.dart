@@ -18,7 +18,7 @@ List<RecentWork> recentWorks = [
       title: "New & Fresh Looking Portfolio ",
       category: "Graphic Design",
       image: "assets/images/work_2.png",
-      url: "https://github.com/sha-2nk/Portfolio_Shashank"),
+      url: "https://github.com/sha-2nk/Shashank_Portfolio"),
   RecentWork(
       id: 3,
       title: "Sentiment Analysis of Comments using SVM",
